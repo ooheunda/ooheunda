@@ -17,6 +17,19 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/ooheunda"/>
+    <img 
+        src="https://render.gitanimals.org/farms/ooheunda"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
   </a>
+  <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/673489151194920651/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 </div>
